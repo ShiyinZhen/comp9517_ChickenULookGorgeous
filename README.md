@@ -1,2 +1,2 @@
 # comp9517_ChickenULookGorgeous
-COMP9517 图像数据随机的部分
+COMP9517 图像数据随机抽样的部分见Random_Sampling.py
