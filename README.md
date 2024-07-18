@@ -1,2 +1,2 @@
 # comp9517_ChickenULookGorgeous
-小镇做题家
+COMP9517 图像数据随机的部分
