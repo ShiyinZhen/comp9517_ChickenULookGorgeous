@@ -1,2 +1,4 @@
 # comp9517_ChickenULookGorgeous
-COMP9517 图像数据随机抽样的部分见Random_Sampling.py
+COMP9517 图像数据随机抽样的部分见Random_Sampling.ipynb
+图像读取的样例见Load_Samples.ipynb
+txt文本为我随机抽样出来的内容
